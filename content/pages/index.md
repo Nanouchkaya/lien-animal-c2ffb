@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Nos services
-    subtitle: Pour nos compagnons à quatre pattes
+    subtitle: blabla
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
