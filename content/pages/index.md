@@ -91,7 +91,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Besoin d'une petsitter ?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Vous partez en vacances ? Vous manquez de temps pour promener votre chien
+      ? Vous souhaitez plus de renseignements ?
     actions:
       - label: Conctactez-nous
         url: /signup
