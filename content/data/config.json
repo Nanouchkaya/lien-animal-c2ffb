@@ -95,7 +95,7 @@
             {
                 "type": "footer_form",
                 "title": "Newsletter",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Restez informé des disponibilités, derniers articles, nouveautés et événements.\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
