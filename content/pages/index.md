@@ -19,7 +19,7 @@ sections:
     title: Nos services
     subtitle: blabla
     features:
-      - title: The Best Feature of Your Services
+      - title: Visite au domicile
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
