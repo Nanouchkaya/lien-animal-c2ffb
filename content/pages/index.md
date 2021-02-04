@@ -98,7 +98,7 @@ sections:
       - label: Envoyer un mail
         url: /signup
         style: primary
-      - label: lorem-ipsum
+      - label: Appelez
         url: lorem-ipsum
         style: link
         has_icon: false
