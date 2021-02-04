@@ -75,19 +75,19 @@
                 "title": "Réseaux sociaux",
                 "nav_links": [
                     {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
                         "label": "Instagram",
                         "url": "https://www.linkedin.com/",
                         "style": "link",
                         "has_icon": true,
                         "icon": "instagram",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "Twitter",
+                        "url": "https://twitter.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "twitter",
                         "icon_position": "left"
                     }
                 ]
