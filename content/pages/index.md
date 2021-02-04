@@ -95,7 +95,7 @@ sections:
       Vous partez en vacances ? Vous manquez de temps pour promener votre chien
       ? Vous souhaitez plus de renseignements ?
     actions:
-      - label: Conctactez-nous
+      - label: Envoyer un mail
         url: /signup
         style: primary
   - section_id: recent-posts
