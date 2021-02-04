@@ -113,11 +113,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "CGV",
-                "url": "/terms-of-service",
-                "style": "link"
-            },
-            {
                 "label": "Mentions légales",
                 "url": "/privacy-policy",
                 "style": "link"
