@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Petsitter en Isère
     content: >
-      Restez serein durant vos absences, on s'occupe de vos chats et chiens avec
+      Restez serein durant vos absences, je m'occupe de vos chats et chiens avec
       bienveillance et professionnalisme.
     actions:
       - label: Learn More
