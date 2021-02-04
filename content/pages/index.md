@@ -98,7 +98,7 @@ sections:
       - label: Envoyer un mail
         url: /signup
         style: primary
-      - label: Appelez
+      - label: Ou appelez le 0767629026
         url: lorem-ipsum
         style: link
         has_icon: false
